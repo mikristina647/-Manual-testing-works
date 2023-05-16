@@ -1,4 +1,4 @@
-**Задание 1**  [Решение](https://docs.google.com/spreadsheets/d/1PgcQPBvbtAEq5khZoGiOI0UwA6fHtwko/edit?usp=sharing&ouid=102571771603401284275&rtpof=true&sd=true)
+**Задание 1**   [Решение](https://docs.google.com/spreadsheets/d/1PgcQPBvbtAEq5khZoGiOI0UwA6fHtwko/edit?usp=sharing&ouid=102571771603401284275&rtpof=true&sd=true)
 [Скрин TMC](https://gbcdn.mrgcdn.ru/uploads/homeworkattachment/5131507/attachment/7852dae96a4e1570a9ffc666d0b1fade.png)
 
 **Создание тест-кейсов**
@@ -18,7 +18,7 @@
 Перенести тест-кейсы (хотя бы один) в любую ТМС и прикрепить в сдачу задания скриншот перенесенных тест-кейсов из ТМС
 
 
-**Задание 2**  [Решение](https://docs.google.com/spreadsheets/d/1hOGEe7k-XChMyYnkvD9etEkpuZOCS6eI/edit?usp=sharing&ouid=102571771603401284275&rtpof=true&sd=true)
+**Задание 2**   [Решение](https://docs.google.com/spreadsheets/d/1hOGEe7k-XChMyYnkvD9etEkpuZOCS6eI/edit?usp=sharing&ouid=102571771603401284275&rtpof=true&sd=true)
 
 **Виды тестирования**
 
@@ -32,7 +32,7 @@
 
 
 
- **Задание 3**  [Решение](https://docs.google.com/spreadsheets/d/1vk_gYEBz2H4T2kZR6FWxj21HXWVG4UqS/edit?usp=sharing&ouid=102571771603401284275&rtpof=true&sd=true)
+ **Задание 3**   [Решение](https://docs.google.com/spreadsheets/d/1vk_gYEBz2H4T2kZR6FWxj21HXWVG4UqS/edit?usp=sharing&ouid=102571771603401284275&rtpof=true&sd=true)
 
 
 **Создание баг-репортов. Баг-трекинговые системы. Отчёты о тестировании**
@@ -50,17 +50,17 @@
 4) Перенесите баг-репорты на раздел «Вкусное меню на сегодня» в Jira или любой другой баг-трекер. Добавьте скрины в лист 3 таблицы для домашнего задания или прикрепите скриншоты из баг-трекера отдельно к ДЗ на платформе.
 
 
-**Задание 4**  [Задание и Решение](https://docs.google.com/spreadsheets/d/1rfbcqFnD2HKUoPyx-cIygo-SJ4ybruDyvipGtshCTkI/edit?usp=sharing)
+**Задание 4**   [Задание и Решение](https://docs.google.com/spreadsheets/d/1rfbcqFnD2HKUoPyx-cIygo-SJ4ybruDyvipGtshCTkI/edit?usp=sharing)
 
 Нобходимо ознакомиться с техническим заданием и составить чек-лист.
 
 
-**Задание 5**  [Задание и Решение](https://docs.google.com/spreadsheets/d/17awsJUXMjPjJDsYHPHiEk5IHHzI5vIbyDvhRFUuTr3o/edit?usp=sharing)
+**Задание 5**   [Задание и Решение](https://docs.google.com/spreadsheets/d/17awsJUXMjPjJDsYHPHiEk5IHHzI5vIbyDvhRFUuTr3o/edit?usp=sharing)
 
 Нобходимо ознакомиться с техническим заданием и составить тест-кейсы. 
 
 
-**Задание 5**  [Задание Решение Скрины из Jira](https://docs.google.com/spreadsheets/d/1BdbnSZyx-D58Nzxao-zUzlVWU5IqoYlx_5JaVZdk5oE/edit?usp=sharing)
+**Задание 6**   [Задание Решение Скрины из Jira](https://docs.google.com/spreadsheets/d/1BdbnSZyx-D58Nzxao-zUzlVWU5IqoYlx_5JaVZdk5oE/edit?usp=sharing)
 
 Необходимо провести тестирование по тест-кейсам (на проект: [лендинг конференции](https://test-stand.gb.ru/seminar_stands/umeet/index.html), составленным в задании 2, и завести баг-репорты в таблицу.
 
