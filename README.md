@@ -52,7 +52,7 @@
 
 **Задание 4**   [Задание и Решение](https://docs.google.com/spreadsheets/d/1rfbcqFnD2HKUoPyx-cIygo-SJ4ybruDyvipGtshCTkI/edit?usp=sharing)
 
-Нобходимо ознакомиться с техническим заданием и составить чек-лист.
+Необходимо ознакомиться с техническим заданием и составить чек-лист.
 
 
 **Задание 5**   [Задание и Решение](https://docs.google.com/spreadsheets/d/17awsJUXMjPjJDsYHPHiEk5IHHzI5vIbyDvhRFUuTr3o/edit?usp=sharing)
