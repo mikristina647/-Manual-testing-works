@@ -33,9 +33,9 @@
 
 
  **Задание 3**   [Решение](https://docs.google.com/spreadsheets/d/1vk_gYEBz2H4T2kZR6FWxj21HXWVG4UqS/edit?usp=sharing&ouid=102571771603401284275&rtpof=true&sd=true)
+[Баг-репорты в Jira](https://docs.google.com/spreadsheets/d/1EAM4U-CNRYjjWSTlSFK796bQlC4mXo8z/edit?usp=sharing&ouid=102571771603401284275&rtpof=true&sd=true)
 
-
-**Создание баг-репортов. Баг-трекинговые системы. Отчёты о тестировании**
+**Создание баг-репортов. Баг-трекинговые системы.** 
 
 1) Заведите все баг-репорты на раздел «Вкусное меню на сегодня», найденные в чек-листе из ДЗ 2.
 
@@ -57,7 +57,7 @@
 
 **Задание 5**   [Задание и Решение](https://docs.google.com/spreadsheets/d/17awsJUXMjPjJDsYHPHiEk5IHHzI5vIbyDvhRFUuTr3o/edit?usp=sharing)
 
-Нобходимо ознакомиться с техническим заданием и составить тест-кейсы. 
+Необходимо ознакомиться с техническим заданием и составить тест-кейсы. 
 
 
 **Задание 6**   [Задание Решение Скрины из Jira](https://docs.google.com/spreadsheets/d/1BdbnSZyx-D58Nzxao-zUzlVWU5IqoYlx_5JaVZdk5oE/edit?usp=sharing)
